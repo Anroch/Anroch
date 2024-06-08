@@ -1,6 +1,4 @@
 
-![200w](https://github.com/Anroch/Anroch/assets/159738455/13a7e14b-fa19-43b2-a95b-306bb21ec79c)
-
 <!--
 **Anroch/Anroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
